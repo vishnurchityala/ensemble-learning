@@ -1,0 +1,4 @@
+FeatureExtractor,ModelPath
+DenseNet201,models/dt_DenseNet201.pkl
+InceptionV3,models/dt_InceptionV3.pkl
+MobileNetV2,models/dt_MobileNetV2.pkl
