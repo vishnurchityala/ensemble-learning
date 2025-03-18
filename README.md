@@ -9,3 +9,5 @@ This research endeavors to demonstrate that ensemble learning methodologies, spe
 * Provide empirical validation of the efficacy of ensemble methods over individual classifiers.
 
 This study seeks to establish empirical evidence supporting ensemble learning as a more robust and dependable approach for machine learning tasks.
+
+Current Results are in notebooks/results.ipynb 
